@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x52735da391FE8a407231C1F9C6F0EF2389378635",
+  "SCAN_LINK": "https://etherscan.io/address/0x52735da391FE8a407231C1F9C6F0EF2389378635",
+  "NETWORK": {
+    "NAME": "mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Non-Fungible Miners",
+  "SYMBOL": "NFM",
+  "MAX_SUPPLY": 5999,
+  "WEI_COST": 120000000000000000,
+  "DISPLAY_COST": 0.12,
+  "GAS_LIMIT": 500000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/non-fungible-miners-official-collection",
+  "SHOW_BACKGROUND": true
+}
